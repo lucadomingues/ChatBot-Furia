@@ -43,3 +43,7 @@ while True:
     
     try:
         resposta = enviar_mensagem(historico)
+        historico.append({"role": "assistant", "content": resposta})
+        print(f"Bot: {resposta}\n")
+    except Exception as e:
+        print(f"Erro: {e}")
