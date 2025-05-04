@@ -1,6 +1,6 @@
 # 🐗 ChatBot FURIA Esportes
 
-Um chatbot interativo criado com [Streamlit](https://streamlit.io) que responde exclusivamente sobre o clube FURIA Esportes, incluindo suas equipes (CS2, Valorant, LoL, R6), história, jogadores, títulos, eventos e mais.
+Um chatbot interativo criado com [Streamlit](https://streamlit.io) que responde exclusivamente sobre o clube FURIA Esportes, incluindo suas equipes (CS2, Valorant, LoL, R6, Football), história, jogadores, títulos, eventos e mais.
 
 ---
 
@@ -37,3 +37,21 @@ Um chatbot interativo criado com [Streamlit](https://streamlit.io) que responde 
 ```bash
 git clone https://github.com/seu-usuario/chatbot-furia.git
 cd chatbot-furia
+
+## 🧠 Sobre o comportamento do assistente
+Este assistente responde exclusivamente sobre a FURIA Esportes, incluindo:
+- Times (CS2, Valorant, LoL, R6, etc.)
+- História do clube
+- Jogadores e técnicos
+- Títulos e torneios
+- Torcida e eventos
+- Qualquer pergunta fora desse contexto será recusada educadamente.
+
+## Redes sociais FURIA
+- 🌐 Site oficial
+
+- 🐦 Twitter
+
+- 📸 Instagram
+
+- ▶️ YouTube
