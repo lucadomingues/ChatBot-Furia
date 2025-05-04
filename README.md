@@ -1,4 +1,4 @@
-# 🐗 ChatBot FURIA Esportes
+# ChatBot FURIA Esportes
 
 Um chatbot interativo criado com [Streamlit](https://streamlit.io) que responde exclusivamente sobre o clube FURIA Esportes, incluindo suas equipes (CS2, Valorant, LoL, R6, Football), história, jogadores, títulos, eventos e mais.
 
