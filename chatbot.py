@@ -53,7 +53,7 @@ HEADERS = {
 if "messages" not in st.session_state:
     st.session_state.messages = [
         {"role": "system", "content": ("Você é um assistente especializado no Clube Esportivo Brasileiro Furia."
-                                       "Responda apenas sobre assuntos relacionados ao time de footiball, redram, lol, valorant, r6, sua história, jogadores, títulos, torcida, eventos"
+                                       "Responda apenas sobre assuntos relacionados ao time de football, redram, lol, valorant, r6, sua história, jogadores, títulos, torcida, eventos"
                                        "Se o usuário perguntar qualquer coisa fora desse tema, gentilmente diga que você só pode responder sobre o Clube Esportivo Furia."
                                        "Nunca responda perguntas fora desse assunto.")},
         {"role": "assistant", "content": "Olá! 👋 Sou o assistente virtual da FURIA Esportes. Estou aqui para te ajudar com informações sobre nossos times, produtos, eventos e tudo do mundo FURIA. Bora nessa?"}
