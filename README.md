@@ -30,15 +30,6 @@ Um chatbot interativo criado com [Streamlit](https://streamlit.io) que responde 
 
 ---
 
-## 🛠️ Instalação
-
-### 1. Clone o projeto
-
-```bash
-git clone https://github.com/seu-usuario/chatbot-furia.git
-cd chatbot-furia
-````
-
 ## 🧠 Sobre o comportamento do assistente
 Este assistente responde exclusivamente sobre a FURIA Esportes, incluindo:
 - Times (CS2, Valorant, LoL, R6, etc.)
@@ -48,11 +39,17 @@ Este assistente responde exclusivamente sobre a FURIA Esportes, incluindo:
 - Torcida e eventos
 - Qualquer pergunta fora desse contexto será recusada educadamente.
 
+## 🛠️ Instalação
+
+### 1. Clone o projeto
+
+```bash
+git clone https://github.com/seu-usuario/chatbot-furia.git
+cd chatbot-furia
+````
+
 ## Redes sociais FURIA
 - 🌐 Site oficial
-
 - 🐦 Twitter
-
 - 📸 Instagram
-
 - ▶️ YouTube
