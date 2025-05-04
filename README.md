@@ -6,7 +6,7 @@ Um chatbot interativo criado com [Streamlit](https://streamlit.io) que responde 
 
 ## 📸 Prévia
 
-![FURIA Logo](./Furia_Esports_logo.png)
+![FURIA Logo](./previa.png)
 
 ---
 
