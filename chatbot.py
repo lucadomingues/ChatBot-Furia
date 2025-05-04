@@ -1,5 +1,9 @@
 import streamlit as st
 import requests
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
 
 # Configuração da página
 st.set_page_config(page_title="ChatBot Furia", page_icon="Furia_Esports_logo.png")
@@ -35,7 +39,7 @@ st.markdown("""
     """, unsafe_allow_html=True)
 
 # Configurações da API
-API_KEY = "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"
+API_KEY = os.getenv("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")
 API_URL = "https://openrouter.ai/api/v1/chat/completions"
 
 HEADERS = {

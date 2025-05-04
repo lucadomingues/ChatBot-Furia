@@ -1,0 +1,33 @@
+# Arquivo de ambiente com chaves secretas
+.env
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtualenv (caso criado dentro do projeto)
+venv/
+env/
+
+# Arquivos temporários do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Arquivos de configuração do editor
+.vscode/
+.idea/
+
+# Arquivos Jupyter (se estiver usando)
+.ipynb_checkpoints/
+
+# Streamlit cache (opcional)
+.streamlit/
+
+# Arquivos compactados e temporários
+*.zip
+*.tar.gz
+*.egg-info/
