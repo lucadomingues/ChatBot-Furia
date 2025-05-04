@@ -3,8 +3,6 @@ import requests
 from dotenv import load_dotenv
 import os
 
-load_dotenv()
-
 # Configuração da página
 st.set_page_config(page_title="ChatBot Furia", page_icon="Furia_Esports_logo.png")
 
