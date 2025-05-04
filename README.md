@@ -37,8 +37,7 @@ Um chatbot interativo criado com [Streamlit](https://streamlit.io) que responde 
 ```bash
 git clone https://github.com/seu-usuario/chatbot-furia.git
 cd chatbot-furia
-
----
+````
 
 ## 🧠 Sobre o comportamento do assistente
 Este assistente responde exclusivamente sobre a FURIA Esportes, incluindo:
