@@ -39,7 +39,7 @@ st.markdown("""
     """, unsafe_allow_html=True)
 
 # Configurações da API
-API_KEY = os.getenv("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")
+API_KEY = os.getenv("API_KEY")
 API_URL = "https://openrouter.ai/api/v1/chat/completions"
 
 HEADERS = {
